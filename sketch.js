@@ -22,6 +22,7 @@ function preload() {
     memorylayers,
     EN_M3_mldy12,
     EN_M3_stinger3,
+       HOLO_B1, 
     LEIS_MUSIC_pipe2,
     LEOF_SAAV_mldy3
   ]
